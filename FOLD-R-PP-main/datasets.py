@@ -200,7 +200,7 @@ def titanic():
 
 #########################################################################################################################
 
-# Following are the datasets that are tired and rules are generated using fOLD - R++
+# Following are the datasets that are tried and rules are generated using fOLD - R++
 
 def drug():
     attrs = ['Age', 'Na_to_K', 'Sex', 'BP', 'Cholestrol']
